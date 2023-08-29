@@ -1,0 +1,6 @@
+<config>
+    <db>
+        <uri>mongodb://localhost:27017</uri>
+        <dbname>prova</dbname>
+    </db>
+</config>
